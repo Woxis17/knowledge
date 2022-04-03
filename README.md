@@ -22,9 +22,11 @@ Victor Rentea:
 - https://sql-performance-explained.com/
 - Domain-driven design, Eric Evans
 - R. Martin, Clean Agile
+- Design Patterns, E. Gamma
 
 ## Books to read:
-- M. Fowler, Refaktoryzacja
-- M. Fowler, Zarządzanie przedsiębiorstwem
+- M. Fowler, Refactoring
+- M. Fowler, Patterns of Enterprise Application Architecture
 - R. Martin, Clean code
 - R. Martin, Clean architecture
+- Designing Data-Intensive Applications, Martin Kleppmann
