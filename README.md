@@ -11,3 +11,20 @@ Nabrdalik:
 
 Victor Rentea:
   - https://www.youtube.com/watch?v=tMHO7_RLxgQ
+
+
+## Databases/ Hibernate
+- https://use-the-index-luke.com/
+- https://vladmihalcea.com/
+
+## Books read:
+- https://vladmihalcea.com/books/high-performance-java-persistence/
+- https://sql-performance-explained.com/
+- Domain-driven design, Eric Evans
+- R. Martin, Clean Agile
+
+## Books to read:
+- M. Fowler, Refaktoryzacja
+- M. Fowler, Zarządzanie przedsiębiorstwem
+- R. Martin, Clean code
+- R. Martin, Clean architecture
