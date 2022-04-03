@@ -18,11 +18,17 @@ Victor Rentea:
 - https://vladmihalcea.com/
 
 ## Books read:
+# Programming:
 - https://vladmihalcea.com/books/high-performance-java-persistence/
 - https://sql-performance-explained.com/
 - Domain-driven design, Eric Evans
-- R. Martin, Clean Agile
 - Design Patterns, E. Gamma
+
+# Agile:
+- R. Martin, Clean Agile
+- Scrum i nie tylko, K. Kaczor
+- The Age of Agile, S. Denning
+- Scrum guid - https://www.scrum.org/
 
 ## Books to read:
 - M. Fowler, Refactoring
