@@ -5,12 +5,18 @@
 - https://apiux.com/2013/03/20/5-laws-api-dates-and-times/
 
 # DDD/ Clean Architecture
+- https://herbertograca.com/2017/10/19/from-cqs-to-cqrs/
+
 Nabrdalik:
   - https://www.youtube.com/watch?v=1HJJhGHC2A4
   - https://www.youtube.com/watch?v=ILBX9fa9aJo
 
 Victor Rentea:
   - https://www.youtube.com/watch?v=tMHO7_RLxgQ
+
+Eric Evans:
+  - https://www.youtube.com/watch?v=am-HXycfalo
+  - https://www.youtube.com/watch?v=pMuiVlnGqjk
 
 ## Databases/ Hibernate
 - https://use-the-index-luke.com/
