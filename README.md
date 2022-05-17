@@ -18,7 +18,7 @@ Eric Evans:
   - https://www.youtube.com/watch?v=am-HXycfalo
   - https://www.youtube.com/watch?v=pMuiVlnGqjk
 
-Chris RRichardson:
+Chris Richardson:
   - https://microservices.io/
   - https://www.chrisrichardson.net/
 
