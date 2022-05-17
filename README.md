@@ -45,6 +45,6 @@ Chris RRichardson:
 - R. Martin, Clean code
 - R. Martin, Clean architecture
 - M. Kleppmann, Designing Data-Intensive Applications
-- C. Richardson, Microserices Patterns
+- C. Richardson, Microservices Patterns
 
 # Spring [->](spring.md)
