@@ -18,6 +18,10 @@ Eric Evans:
   - https://www.youtube.com/watch?v=am-HXycfalo
   - https://www.youtube.com/watch?v=pMuiVlnGqjk
 
+Chris RRichardson:
+  - https://microservices.io/
+  - https://www.chrisrichardson.net/
+
 ## Databases/ Hibernate
 - https://use-the-index-luke.com/
 - https://vladmihalcea.com/
@@ -33,13 +37,14 @@ Eric Evans:
 - R. Martin, Clean Agile
 - Scrum i nie tylko, K. Kaczor
 - The Age of Agile, S. Denning
-- Scrum guid - https://www.scrum.org/
+- The Scrum Guide - https://www.scrum.org/
 
 # Books to read:
 - M. Fowler, Refactoring
 - M. Fowler, Patterns of Enterprise Application Architecture
 - R. Martin, Clean code
 - R. Martin, Clean architecture
-- Designing Data-Intensive Applications, Martin Kleppmann
+- M. Kleppmann, Designing Data-Intensive Applications
+- C. Richardson, Microserices Patterns
 
 # Spring [->](spring.md)
