@@ -46,5 +46,8 @@ Chris Richardson:
 - R. Martin, Clean architecture
 - M. Kleppmann, Designing Data-Intensive Applications
 - C. Richardson, Microservices Patterns
+- S. McConnell, Code Complete
+- J. Ousterhout, A Philosophy of Software Design
+
 
 # Spring [->](spring.md)
